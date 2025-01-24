@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...t.me/j2mf4
-- 😄 Pronouns: ...j2mf4
-- ⚡ Fun fact: ...My enemies!😄😄😄
+- 😄 Pronouns: ...j2mf4.Milhano
+
 
 <!---
 j2mf4/j2mf4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
